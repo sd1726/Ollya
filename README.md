@@ -1,2 +1,2 @@
 # Ollya
-This is a Cosmetic Website.
+This is a Clone of Cosmetic Website.
